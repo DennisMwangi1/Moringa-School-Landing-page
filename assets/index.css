@@ -1,0 +1,15 @@
+#image1{
+   height: 300px;
+   width: 300px;
+}
+.moringa{
+   float: left;
+   width: 33.33%;
+   padding-left: 10px;
+   padding-right: 30px;
+   margin-left: 5%;
+   width: 500px;
+}
+body{
+   font-family: 'Nunito';
+}
