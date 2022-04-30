@@ -45,6 +45,7 @@ body{
    color: whitesmoke;
    border: solid 1px;
    border-radius: 5px;
+   box-shadow: #EC4067;
    
    
    
@@ -58,6 +59,7 @@ body{
    border: 0.2px solid #f3335f;
    font-family: 'Nunito';
    background-color: white;
+   box-shadow: #EC4067;
    
    
 }
@@ -72,7 +74,7 @@ body{
 
 }
 .p33{
-   background-color: lightgray;
+   background-color: whitesmoke;
    display: inline;
    font-size: 40px;
    margin-left: 45px;
@@ -113,6 +115,7 @@ body{
    border: solid 1px;
    border-radius: 5px;
    padding: 10px;
+   box-shadow: #EC4067;
 }
 .container3{
    margin-top: 100px;
@@ -149,6 +152,7 @@ body{
    border: solid 1px;
    border-radius: 5px;
    padding: 10px;
+   box-shadow: #EC4067;
 }
 .container4{
    display: flex;
@@ -178,6 +182,7 @@ body{
    border: solid 1px;
    border-radius: 5px;
    padding: 10px;
+   box-shadow: #EC4067;
 }
 .topnav{
    display: flex;
@@ -221,6 +226,7 @@ h3{
    color: white;
    border: solid 0.5px;
    border-radius: 10px;
+   box-shadow: #EC4067;
    
 }
 .h33{
@@ -231,4 +237,61 @@ h3{
 .topnav a:hover {
    background-color: rgb(255, 255, 255);
    color: black;
+}
+.row{
+   display: flex;
+  
+}
+.column{
+   
+   flex: 25%;
+}
+#image5{
+   width: 250px;
+   height: 200px;
+   padding-left: 50px;
+   
+   
+}
+#image6{
+   width: 250px;
+   height: 200px;
+   padding-left: 30px;
+   
+}
+#image7{
+   width: 250px;
+   height: 200px;
+   padding-left: 30px;
+}
+#image8{
+   width: 250px;
+   height: 200px;
+   padding-left: 30px;
+   
+}
+.rose{
+   padding-left: 50px;
+}
+.albert{
+   padding-left: 30px;
+}
+.katana{
+   padding-left: 30px;
+}
+.christine{
+   padding-left: 30px;
+}
+#mentors{
+   color: #EC4067;
+}
+#button6{
+   color:white;
+   background-color: #EC4067;
+   box-shadow: #EC4067;
+   font-size: 20px;
+   border: solid 1px;
+   border-radius: 5px;
+   font-family: 'Nunito';
+   margin-top: 5px;
 }
