@@ -74,7 +74,7 @@ body{
 
 }
 .p33{
-   background-color: whitesmoke;
+   background-color: lightgray;
    display: inline;
    font-size: 40px;
    margin-left: 45px;
@@ -295,3 +295,46 @@ h3{
    font-family: 'Nunito';
    margin-top: 5px;
 }
+.p8{
+   font-size: 25px;
+}
+.p9{
+   font-size: 40px;
+   color: #EC4067;
+}
+.p10{
+   font-size: 20px;
+}
+#image9{
+   padding-left: 30px;
+   width: 800px;
+   height: 450px;
+}
+#button7{
+   font-size: 20px;
+   color: white;
+   border: solid 1px;
+   background-color: #EC4067;
+   box-shadow: #EC4067;
+   border-radius: 5px;
+}
+.p11{
+   font-size: 40px;
+   color: #EC4067;
+   padding-left: 30px;
+}
+.p12{
+   font-size: 25px;
+   margin-bottom: 100px;
+   padding-left: 30px;
+}
+#button8{
+   font-size: 25px;
+   background-color: #EC4067;
+   color: white;
+   border: solid 1px;
+   border-radius: 5px;
+}
+ a:hover {
+   background-color: rgb(255, 255, 255);
+   color: black;
