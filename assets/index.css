@@ -477,13 +477,22 @@ padding-top: 10px;
    margin-right: 5px;
 }
 .enroll:hover{
-   background-color:lightslategray;
+   background-color: white;
+   color: #EC4067;
 }
 #button2:hover{
    background-color:#EC4067;
    color: white;
 }
 #button1:hover{
+   background-color: white;
+   color: #EC4067;
+}
+#button4:hover{
+   background-color: white;
+   color: #EC4067;
+}
+#button8:hover{
    background-color: white;
    color: #EC4067;
 }
