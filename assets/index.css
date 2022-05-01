@@ -26,8 +26,8 @@ img{
 .p1{
    font-size: 35px;
    color: #EC4067;
-   padding-bottom: 2px;
-   margin-bottom: 1px;
+   padding-bottom: 0px;
+   margin-bottom: 0px;
    padding-top: 65px;
 }
 .p2{
@@ -66,6 +66,7 @@ body{
 .heading5{
    font-size: 20px;
    display: block;
+   color: black;
 }
 .p3{
    font-size: 40px;
@@ -311,20 +312,22 @@ h3{
    height: 450px;
 }
 #button7{
-   font-size: 20px;
+   font-size: 30px;
    color: white;
    border: solid 1px;
    background-color: #EC4067;
    box-shadow: #EC4067;
    border-radius: 5px;
+   margin-top: 20px;
 }
 .p11{
-   font-size: 40px;
+   font-size: 35px;
    color: #EC4067;
    padding-left: 30px;
+   margin-top: 100px;
 }
 .p12{
-   font-size: 25px;
+   font-size: 23px;
    margin-bottom: 100px;
    padding-left: 30px;
 }
@@ -469,3 +472,7 @@ padding-top: 10px;
 
 }
 
+.orientation{
+   padding-left: 50px;
+   margin-right: 5px;
+}
