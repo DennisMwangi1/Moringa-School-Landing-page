@@ -204,14 +204,17 @@ body{
 #courses{
    padding: 10px;
    font-size: 22px;
+   text-decoration:none;
 }
 #ourprojects{
    padding:10px ;
    font-size: 22px;
+   text-decoration:none;
 }
 #stories{
    padding: 10px;
    font-size: 22px;
+   text-decoration:none;
 }
 
 h3{
