@@ -1,3 +1,11 @@
+*{
+   box-sizing: border-box;
+}
+#maintitle{
+   text-decoration: none;
+   background-color: ghostwhite;
+}
+
 .container{
    display: flex;
    align-items: left;
@@ -35,6 +43,7 @@ img{
 }
 body{
    font-family: 'Nunito';
+   background-color: whitesmoke;
 }
 #button1{
    margin-top: 70px;
@@ -204,18 +213,25 @@ body{
 #courses{
    padding: 10px;
    font-size: 22px;
+   text-decoration: none;
 }
 #ourprojects{
    padding:10px ;
    font-size: 22px;
+   text-decoration: none;
 }
 #stories{
    padding: 10px;
    font-size: 22px;
+   text-decoration: none;
 }
 
 h3{
    font-size: 30px;
+   color: black;
+}
+.h3:hover{
+   color: #EC4067;
 }
 .enroll{
    font-size: 27px;
@@ -234,6 +250,9 @@ h3{
    color: #EC4067;
    display: inline;
    font-size: 36px;
+}
+.h33:hover{
+   color: black;
 }
 .topnav a:hover {
    background-color: rgb(255, 255, 255);
@@ -495,4 +514,10 @@ padding-top: 10px;
 #button8:hover{
    background-color: white;
    color: #EC4067;
+}
+@media screen and (max-width:920px){
+   .topnav2{
+      display: none;
+   }
+   
 }
